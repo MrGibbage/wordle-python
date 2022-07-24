@@ -4,16 +4,16 @@ The great thing about wordle-bot is that is looks at every guess you make and gi
 
 For example, a couple of weeks ago the answer was PHASE. Here's how I played it (which matched wordle-bot)
 
- C R A N E
+` C R A N E`
 
 ⬛⬛🟩⬛🟩
 
- S L O T H
+` S L O T H`
 
 🟨⬛⬛⬛🟨
 
- P H A S E
- 
+` P H A S E`
+
 🟩🟩🟩🟩🟩
 
 You can see that the second guess did not use the 'A' or 'E' from the first guess, and instead went for maximum information with one new vowel and four new consonants. After those two guesses and clues, there was only one possible answer left. Had I wanted to keep the 'A' and 'E', I might have tried something like GLAZE for the second guess, which would have left several possible answers (FLAME, SHAME, etc, and of course, PHASE). SLOTH was the optimum second guess because it eliminates the most answers on average.
