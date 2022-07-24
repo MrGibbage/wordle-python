@@ -1,6 +1,6 @@
 For the last 100+ days I have been comparing my wordle guess to what wordle-bot thinks are the optimum guesses.
 https://www.nytimes.com/interactive/2022/upshot/wordle-bot.html
-The great thing about wordle-bot is that is looks at every guess you make and gives you recommendations about how you did. As I used wordle-bot more and more, I came to realize that the bot plays the second guess in a very different way than I normally do (did). I used to think "I got a green letter here, so I need to make sure my next guesses always keep that letter there (like hard mode, but optional)". Same for yellow letters. I would always make sure I used those letters again, but in a different place of course. What I have seen from wordle-bot is that it almost ALWAYS abandons some of the clues given from the first response (I use the term "clue" to refer to the response given from wordle after you make a guess).
+The great thing about wordle-bot is that it looks at every guess you make and gives you recommendations about how you did. As I used wordle-bot more and more, I came to realize that the bot plays the second guess in a very different way than I normally do (did). I used to think "I got a green letter here, so I need to make sure my next guesses always keep that letter there (like hard mode, but optional)". Same for yellow letters. I would always make sure I used those letters again, but in a different place of course. What I have seen from wordle-bot is that it almost ALWAYS abandons some of the clues given from the first response (I use the term "clue" to refer to the response given from wordle after you make a guess).
 
 For example, a couple of weeks ago the answer was PHASE. Here's how I played it (which matched wordle-bot)
 
@@ -34,7 +34,7 @@ That's it for my analysis. I will continue to keep checking my work against word
 
 
 Here is my python source code for checking my first guess against the entire answer list:
-
+https://github.com/MrGibbage/wordle-python/edit/master/readme.md
 
 And here is a spreadsheet with all of the supporting data:
 https://docs.google.com/spreadsheets/d/1skpmQ-yDAQmIb1nRWRRpSg_QSk137K4yeRBSq_MbfTg/edit?usp=sharing
