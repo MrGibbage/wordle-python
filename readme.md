@@ -3,6 +3,7 @@ https://www.nytimes.com/interactive/2022/upshot/wordle-bot.html
 The great thing about wordle-bot is that is looks at every guess you make and gives you recommendations about how you did. As I used wordle-bot more and more, I came to realize that the bot plays the second guess in a very different way than I normally do (did). I used to think "I got a green letter here, so I need to make sure my next guesses always keep that letter there (like hard mode, but optional)". Same for yellow letters. I would always make sure I used those letters again, but in a different place of course. What I have seen from wordle-bot is that it almost ALWAYS abandons some of the clues given from the first response (I use the term "clue" to refer to the response given from wordle after you make a guess).
 
 For example, a couple of weeks ago the answer was PHASE. Here's how I played it (which matched wordle-bot)
+
  C R A N E
 ⬛⬛🟩⬛🟩
 
